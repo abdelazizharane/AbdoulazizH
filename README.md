@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 **🧑🏾‍💻 AI and Big Data Engineer | Statistical and Economic Analyst 📊**
 
+![Linkedin Banner](https://github.com/AbdoulazizH/AbdoulazizH/assets/122400488/e11ad1fd-ce87-4025-b0d5-f886ace5b0da)
+
 As an AI and Big Data engineer, I bring a profound expertise in data analysis and a solid understanding of statistical concepts. My academic journey has equipped me with the necessary skills to delve into complex datasets, identify significant trends, and extract actionable insights for decision-making.
 
 Key Skills
