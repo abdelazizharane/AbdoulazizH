@@ -6,7 +6,7 @@
 **Here you will find my open source contributions on Chadian languages and other general projects**.
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
