@@ -32,13 +32,3 @@
 
 My main objective is to contribute to the sustainable transformation of the AI ecosystem in Chad, through the [Chad AI Network community](https://chadainetwork.org/) that I founded. It brings together enthusiasts, students, academics, engineering researchers and professionals, driven by the desire to collectively advance this strategic sector in our country.
 Solving local problems using AI and data science is my ongoing obsession.
-
-<h3 align="left">🔥 My stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=abdelazizharane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
